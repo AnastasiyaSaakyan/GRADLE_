@@ -1,0 +1,5 @@
+rootProject.name = 'GRADLE_'
+include 'db'
+include 'api'
+include 'service'
+
